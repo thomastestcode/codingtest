@@ -8,7 +8,7 @@ and write results into another file by using two simple sort methods Selection a
 
 # Getting Started
 
-Copy all file to your local machine for compiling the code to produce C++ executable file
+Copy all files to your local machine for compiling the code to produce C++ executable file
 
 # File List:
 

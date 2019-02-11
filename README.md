@@ -1,7 +1,7 @@
 # Producer Consumer Pattern
 
 This project is to implement a simple Producer/Consumer Pattern in Linux to sort input items from a file 
-and write results into another file by using two simple sort methods Selection and Bubble sort algorithm.
+and write results into another file by using two simple sort algorithm (Selection and Bubble).
 
 # Getting Started
 

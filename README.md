@@ -1,6 +1,3 @@
-# coding test
-Implement the simple Producer/Consumer Patter in Linux
-
 # Producer Consumer Pattern
 
 This project is to implement a simple Producer/Consumer Pattern in Linux to sort input items from a file 
